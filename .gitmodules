@@ -1,0 +1,3 @@
+[submodule "Playframework/play/PlaySampleApp"]
+	path = Playframework/play/PlaySampleApp
+	url = https://github.com/Katsumi-Shi/PlaySampleApp.git
